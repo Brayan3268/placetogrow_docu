@@ -82,8 +82,8 @@ for the respective microsite and if you click the pencil-button you can edit thi
 
 ### Pencil-button.
 
-You can edit a microsite doing click in the pencil-button located in the microsite page or in the register 
-from main microsite page.
+You can edit a microsite doing click in the pencil-button located in these specific microsite form or in the 
+main microsite page.
 ![Texto alternativo](/docs_img/edit_site_form.png "User panel")<br/>
 If you don't change the logo, these will be the same when the site are modify.
 
@@ -139,5 +139,5 @@ When press this button can see all the pays maded associated with this site.
 ### Select file-button.
 
 When you press this button the picker file for youre system will be opened for can select a Excel file with the extension 
-xlsx only and the invoices content in his file are saved in the database, the file need to be needed structure for the 
+.xlsx only and the invoices content in his file are saved in the database, the file need to be needed structure for the 
 correct work of the import masive invoices.

@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/welcome">
-            Placetogrow - 25min ⏱️
+            Placetogrow - 35min ⏱️
           </Link>
         </div>
       </div>
