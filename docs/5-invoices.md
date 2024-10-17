@@ -55,12 +55,12 @@ This is the currency asociated to the amount for pay.
 
 ### User.
 
-In this fiel is completly needed to select the document of the user, the app only 
+In this field is completly needed to select the document of the user, the app only 
 permmit asociate invoices to guest users.
 
 ### Site.
 
-In this fiel is completly needed to select the site to will be associated to the invoice, 
+In this field is completly needed to select the site to will be associated to the invoice, 
 the app only permmit asociate invoices to invoices sites.
 
 ### Invoice surcharge.
@@ -106,7 +106,7 @@ for the respective invoice and if you click the pencil-button you can edit this 
 ### Pencil-button.
 
 You can edit a invoice doing click in the pencil-button located in these specific invoice form or in the 
-main invoice page.
+main invoices page.
 ![Texto alternativo](/docs_img/edit_invoice_form.png "User panel")<br/>
 
 ### Trash-button.
